@@ -1,4 +1,6 @@
 # EndlessProject-JAVA-
-가로 세로 3개 블록 맞출시 터지는 애니팡을 구현한 게임   
-5개의 스테이지 존재    
-각 스테이지 클리어시 스토리 열람 가능   
+A game that implements Anipang, which explodes when 3 block's image are same.   
+Game have five stages.    
+If you clear each stage, you can see the story  
+
+Use computer language, java
