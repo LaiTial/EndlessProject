@@ -1,5 +1,4 @@
 # EndlessProject-JAVA-
-c++ hard coding
-
-A puzzle game with story  
-use java
+가로 세로 3개 블록 맞출시 터지는 애니팡을 구현한 게임   
+5개의 스테이지 존재    
+각 스테이지 클리어시 스토리 열람 가능   
